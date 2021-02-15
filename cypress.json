@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://automationpractice.com/index.php",
+    "env": {
+        "homeUrl": "http://automationpractice.com/index.php"
+    }
+}

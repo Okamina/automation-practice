@@ -1,0 +1,7 @@
+{
+  "cartTitle": "[title='View my shopping cart']",
+  "firstItem": "[data-id-product='1']",
+  "secondItem": "[data-id-product='1']",
+  "contineShoppingButton": "Continue shopping",
+  "classCartPopup": "[class=layer_cart_product_info]"
+}
